@@ -1,1 +1,4 @@
-# distributed_whole_slide_annotation
+# Distributed whole slide annotation
+### Source code for my bachelor's degree thesis project (thesis available at [this link](https://hdl.handle.net/20.500.12608/48835))
+
+This is the first version of a distributed annotation tool for whole slide images. This tool allows to store whole slide images in a variety of formats into a local database and access them in a web application. This application allows the user to view the image and dynamically update its quality as they zoom in and out. The whole slide images are elaborated using the Python binding of the [OpenSlide](https://doi.org/https://doi.org/10.4103/2153-3539.119005) library.
